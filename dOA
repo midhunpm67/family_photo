@@ -1,0 +1,47 @@
+=> [34;4mKreait\Firebase\Auth\UserRecord[39;24m {#3714
+     +[1muid[22m: "[32mZoxhNJXnQbWxwtPiPUDdT5c4bT33[39m",
+     +[1memailVerified[22m: [36mfalse[39m,
+     +[1mdisabled[22m: [36mfalse[39m,
+     +[1mmetadata[22m: [34;4mKreait\Firebase\Auth\UserMetaData[39;24m {#3715
+       +[1mcreatedAt[22m: [34;4mDateTimeImmutable @1652333638[39;24m {#3717
+         [34mdate[39m: [36m2022-05-12 05:33:58.472 UTC (+00:00)[39m,
+       },
+       +[1mlastLoginAt[22m: [36mnull[39m,
+       +[1mpasswordUpdatedAt[22m: [34;4mDateTimeImmutable @1652333638[39;24m {#3698
+         [34mdate[39m: [36m2022-05-12 05:33:58.472 UTC (+00:00)[39m,
+       },
+       +[1mlastRefreshAt[22m: [36mnull[39m,
+     },
+     +[1memail[22m: "[32muser@example.com[39m",
+     +[1mdisplayName[22m: "[32mJohn Doe[39m",
+     +[1mphotoUrl[22m: "[32m%22http%22=%3E//www.example.com/12345678/photo.png[39m",
+     +[1mphoneNumber[22m: "[32m+11234567890[39m",
+     +[1mproviderData[22m: [
+       [34;4mKreait\Firebase\Auth\UserInfo[39;24m {#3686
+         +[1muid[22m: "[32m+11234567890[39m",
+         +[1mdisplayName[22m: [36mnull[39m,
+         +[1mscreenName[22m: [36mnull[39m,
+         +[1memail[22m: [36mnull[39m,
+         +[1mphotoUrl[22m: [36mnull[39m,
+         +[1mproviderId[22m: "[32mphone[39m",
+         +[1mphoneNumber[22m: "[32m+11234567890[39m",
+       },
+       [34;4mKreait\Firebase\Auth\UserInfo[39;24m {#3703
+         +[1muid[22m: "[32muser@example.com[39m",
+         +[1mdisplayName[22m: "[32mJohn Doe[39m",
+         +[1mscreenName[22m: [36mnull[39m,
+         +[1memail[22m: "[32muser@example.com[39m",
+         +[1mphotoUrl[22m: "[32m%22http%22=%3E//www.example.com/12345678/photo.png[39m",
+         +[1mproviderId[22m: "[32mpassword[39m",
+         +[1mphoneNumber[22m: [36mnull[39m,
+       },
+     ],
+     +[1mpasswordHash[22m: "[32mUkVEQUNURUQ=[39m",
+     +[1mpasswordSalt[22m: [36mnull[39m,
+     +[1mcustomClaims[22m: [],
+     +[1mtokensValidAfterTime[22m: [34;4mDateTimeImmutable @1652333638[39;24m {#3694
+       [34mdate[39m: [36m2022-05-12 05:33:58.0 UTC (+00:00)[39m,
+     },
+     +[1mtenantId[22m: [36mnull[39m,
+   }
+
